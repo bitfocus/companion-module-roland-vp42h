@@ -188,7 +188,7 @@ instance.prototype.actions = function() {
 					choices: self.CHOICES_LAYERS
 				},
 				{
-					type: 'textinput',
+					type: 'dropdown',
 					label: 'Show/Hide',
 					id: 'value',
 					default: '1',
