@@ -1,5 +1,5 @@
 ## Roland VP-42H
-This module will allow you to control a Roland VP-24H video processor.
+This module will allow you to control a Roland VP-42H video processor.
 
 ### Configuration
 * Enter the IP address of the device in the configuration settings.
