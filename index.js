@@ -142,7 +142,7 @@ instance.prototype.destroy = function() {
 instance.prototype.actions = function() {
 	var self = this;
 
-	self.system.emit('instance_actions', self.id, {
+	self.setActions({
 		
 		'specify_transition_time': {
 			label: 'Specify the video/scene transition time',
